@@ -1,3 +1,4 @@
 print("Hello world")
 print("I live in Belarus")
 print("Hello")
+print("Hello my dear friend")
